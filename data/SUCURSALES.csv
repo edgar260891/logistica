@@ -1,0 +1,41 @@
+CODIGO_SUCURSAL,NOMBRE_SUCURSAL,ZONA
+AGS,Aguascalientes,O
+TJN,Tijuana,O
+LPZ,La Paz,O
+TUX,Tuxtla Gutierrez,E
+TPC,Tapachula,E
+CHH,Chihuahua,N
+CDJ,Ciudad Juarez,N
+MCL,Monclova,N
+TOR,Torreon,N
+COL,Colima,O
+DGO,Durango,N
+CDM,CDM,S
+TOL,Toluca,S
+CEL,Celaya,O
+IRA,Irapuato,S
+LEN,Leon,S
+GDL,Guadalajara,O
+TLT,Tultitlan,S
+MOR,Morelia,S
+ZAM,Zamora,S
+CUE,Cuernavaca,S
+TEP,Tepic,O
+MTY,Monterrey,N
+OAX,Oaxaca,E
+PUE,Puebla,E
+QRO,Queretaro,S
+CUN,Cancun,E
+CEN,CEDI-SLP,N
+SLP,San Luis Potosi,N
+CUL,Culiacan,O
+LMC,Los Mochis,O
+HER,Hermosillo,O
+VHS,VilLahermosa,E
+RSA,Reynosa,N
+TAM,Tampico,N
+TLX,Tlaxcala,E
+COA,Coatzacoalcos,E
+VER,Veracruz,E
+MER,Merida,E
+ZAC,Zacatecas,N
